@@ -46,4 +46,4 @@ Im strongly motivated to work on projects aiming to have an impact on healthcare
 ### contact
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hugo-bottois-phd-87aabb101/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://hugobottois.medium.com/)
-[<img align="left" alt="mywebsite" src="https://image.flaticon.com/icons/png/512/31/31089.png" width="40" height="40" />](https://cvmyprofile.herokuapp.com/)
+[<img align="left" alt="mywebsite" src="https://image.flaticon.com/icons/png/512/31/31089.png" width="27" height="27" />](https://cvmyprofile.herokuapp.com/)

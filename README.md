@@ -51,4 +51,5 @@ Im strongly motivated to work on projects aiming to have an impact on healthcare
 [<img align="left" alt="linked-in" src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" width="40" height="40"/>](https://www.linkedin.com/in/hugo-bottois-phd-87aabb101/)
 
 [<img align="left" alt="medium" src="https://camo.githubusercontent.com/0b24dac7043527f13877434be2c560423e96f9005111803438e2a046280cbca8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6d656469756d2e737667" width="40" height="40"/>](https://hugobottois.medium.com/)
-[<img align="left" alt="mywebsite" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.freepik.com%2Ficones-gratuites%2Fbalise-html_739077.htm&psig=AOvVaw1GUZYUh3MOL-nwwFHb6P0U&ust=1629295790410000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLja0_iduPICFQAAAAAdAAAAABAD" width="40" height="40"/>](https://cvmyprofile.herokuapp.com/)
+
+[<img align="left" alt="mywebsite" src="https://image.flaticon.com/icons/png/512/31/31089.png" width="40" height="40"/>](https://cvmyprofile.herokuapp.com/)

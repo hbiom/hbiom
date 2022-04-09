@@ -50,4 +50,4 @@ Im strongly motivated to work on projects aiming to have an impact on **healthca
 
 [<img align="left" alt="medium" src="https://camo.githubusercontent.com/0b24dac7043527f13877434be2c560423e96f9005111803438e2a046280cbca8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6d656469756d2e737667" width="40" height="40"/>](https://hugobottois.medium.com/)
 
-[<img align="left" alt="mywebsite" src="https://image.flaticon.com/icons/png/512/31/31089.png" width="40" height="40"/>](https://cvmyprofile.herokuapp.com/)
+[<img align="left" alt="mywebsite" src="https://image.flaticon.com/icons/png/512/31/31089.png" width="40" height="40"/>](https://bottoishugo.herokuapp.com/)

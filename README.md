@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 I'm a Life scientist 👨‍🔬🔬 passionate about the intersections of Healthcare and Data science and programming 💻👨‍💻📊.
 
-I'm currently working on **Machine learning** projects applied to medical images and radiomics for classification and segmentation tasks. I also have experience in **back-end** development (Python, SQL, Flask, Django) and **front-end** interface (HTML, CSS, JS).
-
 Im strongly motivated to work on projects aiming to have an impact on **healthcare** and **clinical practice**.
 
 ### Languages and Tools
